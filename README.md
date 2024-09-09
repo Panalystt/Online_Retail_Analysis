@@ -1,4 +1,4 @@
-Online Retail Analysis
+**Online Retail Analysis**
 
 Project Overview
 
@@ -69,18 +69,9 @@ Open the notebook file Online_Retail_Data_Set.ipynb and execute each cell to ana
 
 The notebook walks through data exploration, cleaning, clustering, and visualization.
 
-Project Structure
-Here’s the structure of the project repository:
-
-bash
-Copy code
-├── Online_Retail_Data_Set.ipynb  # Main analysis notebook
-├── OnlineRetail.csv              # Retail dataset
-├── customer_dataset.csv          # Cleaned customer data
-├── user_dataset.csv              # Processed user data
-└── README.md                     # Project documentation
 
 Technologies Used
+
 Python: Core programming language.
 Jupyter Notebook: For interactive data analysis.
 Pandas: For data manipulation and analysis.
@@ -88,11 +79,14 @@ Matplotlib & Seaborn: For data visualization.
 Scikit-learn: For machine learning and clustering.
 
 Results
+
 Through this analysis, we identified different customer clusters based on purchasing behavior and revenue contributions. These clusters can help in better targeting customers for promotions or tailored marketing strategies.
 
 Contributing
+
 Contributions are welcome! If you would like to contribute to this project, feel free to open an issue or submit a pull request.
 
 License
+
 This project is licensed under the MIT License. See the LICENSE file for more information.
 
