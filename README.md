@@ -17,6 +17,7 @@ Results
 Contributing
 License
 Data Description
+
 The dataset used in this project contains transactional data for an online retailer over a specific period. The dataset includes the following features:
 
 InvoiceNo: Unique transaction identifier
@@ -27,12 +28,18 @@ InvoiceDate: Date of the transaction
 UnitPrice: Price per product unit
 CustomerID: Unique customer identifier
 Country: Country of the customer
+
+
 Key Features
+
 Data Cleaning: Handling missing values, removing duplicates, and outliers.
 Data Clustering: Segmenting customers based on revenue using k-means clustering.
 Revenue Insights: Analyze revenue contributions across different customer segments.
 Visualization: Various charts to visualize customer clusters and transaction patterns.
+
+
 Installation
+
 To run the project locally, follow these steps:
 
 Clone the repository:
