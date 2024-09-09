@@ -1,8 +1,11 @@
 Online Retail Analysis
+
 Project Overview
+
 The Online Retail Analysis project is designed to analyze and gain insights from a dataset of online retail transactions. The project involves cleaning, processing, and clustering customer data based on purchasing behavior and revenue metrics. The aim is to identify meaningful patterns that can help improve customer targeting and business strategies.
 
 Table of Contents
+
 Project Overview
 Data Description
 Key Features
